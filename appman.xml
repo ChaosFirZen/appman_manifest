@@ -6,12 +6,12 @@
 		<github_name>pvyParts</github_name>
 		<github_branch>xperia2012</github_branch>
 		<apps>true</apps>
-		<tweaks>false</tweaks>
+		<tweaks>truw</tweaks>
 		<mods>false</mods>
-		<updates>false</updates>
-		<themes>false</themes>
+		<updates>true</updates>
+		<themes>true</themes>
 		<kernels>false</kernels>
-		<description>Stock Apps for ChaosFirZen Roms</description>
+		<description>AppMan For MooDeD ICS Enjoy Your ICS Ultimate</description>
 		<credits>pvyParts</credits>
 		<thread>http://forum.xda-developers.com/showthread.php?t=1526717</thread>
 	</rom>
